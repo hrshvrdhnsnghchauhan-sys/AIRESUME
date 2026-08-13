@@ -1,0 +1,4 @@
+{
+  "name": "airesume",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
