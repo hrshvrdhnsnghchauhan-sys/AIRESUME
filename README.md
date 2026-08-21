@@ -87,6 +87,27 @@ npm run preview
 
 This application supports authentication via email/password and social providers. Protected routes require the user to be logged in.
 
+## Folder Structure
+
+```
+/src
+  /app           - Dashboard pages and layouts
+  /auth          - Authentication pages (Login, Signup, Forgot Password)
+  /context       - React context providers (Auth, Theme)
+  /components    - Reusable UI components
+    /dashboard   - Dashboard-specific components
+    /landing     - Landing page components (Hero, FAQ, Pricing, Preview)
+  /hooks         - Custom React hooks
+  /lib           - Utility libraries and helpers
+  /pages         - Page components
+  /types         - TypeScript type definitions
+  /styles        - CSS and styling files
+
+/public          - Static assets
+/index.html       - HTML template
+/vite.config.ts   - Vite configuration
+```
+
 ## Learn More
 
 - [Vite Documentation](https://vitejs.dev/guide/)
