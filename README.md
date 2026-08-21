@@ -89,7 +89,7 @@ This application supports authentication via email/password and social providers
 
 ## Folder Structure
 
-```
+```text
 /src
   /app           - Dashboard pages and layouts
   /auth          - Authentication pages (Login, Signup, Forgot Password)
