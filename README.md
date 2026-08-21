@@ -89,24 +89,7 @@ This application supports authentication via email/password and social providers
 
 ## Folder Structure
 
-```text
-/src
-  /app           - Dashboard pages and layouts
-  /auth          - Authentication pages (Login, Signup, Forgot Password)
-  /context       - React context providers (Auth, Theme)
-  /components    - Reusable UI components
-    /dashboard   - Dashboard-specific components
-    /landing     - Landing page components (Hero, FAQ, Pricing, Preview)
-  /hooks         - Custom React hooks
-  /lib           - Utility libraries and helpers
-  /pages         - Page components
-  /types         - TypeScript type definitions
-  /styles        - CSS and styling files
-
-/public          - Static assets
-/index.html       - HTML template
-/vite.config.ts   - Vite configuration
-```
+`/src/app` - Dashboard pages & layouts | `/src/auth` - Auth pages | `/src/context` - React contexts | `/src/components` - UI components | `/src/hooks` - Custom hooks | `/src/lib` - Utilities | `/src/pages` - Page components | `/src/types` - Type definitions | `/src/styles` - Styling | `/public` - Static assets | `/index.html` - HTML template | `/vite.config.ts` - Vite config
 
 ## Learn More
 
