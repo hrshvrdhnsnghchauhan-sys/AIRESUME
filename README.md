@@ -2,7 +2,6 @@
 
 A modern, AI-powered resume builder and career assistant platform helping you analyze, optimize, and land your dream job.
 
-![Screenshot](https://bolt.new/static/og_default.png)
 
 ## Features
 
@@ -87,9 +86,6 @@ npm run preview
 
 This application supports authentication via email/password and social providers. Protected routes require the user to be logged in.
 
-## Folder Structure
-
-`/src/app` - Dashboard pages & layouts | `/src/auth` - Auth pages | `/src/context` - React contexts | `/src/components` - UI components | `/src/hooks` - Custom hooks | `/src/lib` - Utilities | `/src/pages` - Page components | `/src/types` - Type definitions | `/src/styles` - Styling | `/public` - Static assets | `/index.html` - HTML template | `/vite.config.ts` - Vite config
 
 ## Learn More
 
