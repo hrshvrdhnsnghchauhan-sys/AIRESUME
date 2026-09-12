@@ -1,4 +1,4 @@
-# AIRESUME
+# AIRESUME!
 
 A modern, AI-powered resume builder and career assistant platform helping you analyze, optimize, and land your dream job.
 
